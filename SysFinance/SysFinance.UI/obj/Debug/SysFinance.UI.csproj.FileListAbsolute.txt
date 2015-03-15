@@ -1,0 +1,214 @@
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\bin\Debug\SysFinance.UI.exe.config
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.exe
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.pdb
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\bin\Debug\SysFinance.UI.exe
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\bin\Debug\SysFinance.UI.pdb
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\bin\Debug\SysFinance.BLL.dll
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\bin\Debug\SysFinance.DAL.dll
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\bin\Debug\SysFinance.DTO.dll
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\bin\Debug\SysFinance.BLL.pdb
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\bin\Debug\SysFinance.DAL.pdb
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\bin\Debug\SysFinance.DTO.pdb
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.csprojResolveAssemblyReference.cache
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.frmConsultar.resources
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.frmDigitar.resources
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Base.frmBaseRelatorio.resources
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Base.frmBaseSelecionar.resources
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmConfigurarAcesso.resources
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmContasConsultar.resources
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmContasDigitar.resources
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmContasSelecionar.resources
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmExtratosDeContas.resources
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmFluxoDeCaixa.resources
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmLancamentosConsultar.resources
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmLancamentosDigitar.resources
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmLancamentosSelecionar.resources
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.frmLogin.resources
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.frmMenuPrincipal.resources
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmSegmentosConsultar.resources
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmSegmentosDigitar.resources
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmSegmentosSelecionar.resources
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmUsuariosConsultar.resources
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmUsuariosDigitar.resources
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmUsuariosSelecionar.resources
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Properties.Resources.resources
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.csproj.GenerateResource.Cache
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\bin\Debug\SysFinance.UI.exe.config
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\bin\Debug\SysFinance.UI.exe
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\bin\Debug\SysFinance.UI.pdb
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\bin\Debug\itextsharp.dll
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\bin\Debug\SysFinance.BLL.dll
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\bin\Debug\SysFinance.DAL.dll
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\bin\Debug\SysFinance.DTO.dll
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\bin\Debug\SysFinance.BLL.pdb
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\bin\Debug\SysFinance.DAL.pdb
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\bin\Debug\SysFinance.DTO.pdb
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\bin\Debug\itextsharp.xml
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.frmConsultar.resources
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.frmDigitar.resources
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Base.frmBaseRelatorio.resources
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Base.frmBaseSelecionar.resources
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmConfigurarAcesso.resources
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmContasConsultar.resources
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmContasDigitar.resources
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmLancamentosConsultar.resources
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmLancamentosDigitar.resources
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.frmLogin.resources
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.frmMenuPrincipal.resources
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmSegmentosConsultar.resources
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmSegmentosDigitar.resources
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmUsuariosConsultar.resources
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmUsuariosDigitar.resources
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Properties.Resources.resources
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.csproj.GenerateResource.Cache
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.exe
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.pdb
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\bin\Debug\SysFinance.UI.exe.config
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.exe
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.pdb
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\bin\Debug\SysFinance.UI.exe
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\bin\Debug\SysFinance.UI.pdb
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\bin\Debug\SysFinance.BLL.dll
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\bin\Debug\SysFinance.DAL.dll
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\bin\Debug\SysFinance.DTO.dll
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\bin\Debug\SysFinance.BLL.pdb
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\bin\Debug\SysFinance.DAL.pdb
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\bin\Debug\SysFinance.DTO.pdb
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\bin\Debug\itextsharp.xml
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.csprojResolveAssemblyReference.cache
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.frmConsultar.resources
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.frmDigitar.resources
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Base.frmBaseRelatorio.resources
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Base.frmBaseSelecionar.resources
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.frmAjuda.resources
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmConfigurarAcesso.resources
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmContasConsultar.resources
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmContasDigitar.resources
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmContasSelecionar.resources
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmLancamentosConsultar.resources
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmLancamentosDigitar.resources
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmLancamentosSelecionar.resources
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.frmLogin.resources
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.frmMenuPrincipal.resources
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmSegmentosConsultar.resources
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmSegmentosDigitar.resources
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmSegmentosSelecionar.resources
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmUsuariosConsultar.resources
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmUsuariosDigitar.resources
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmUsuariosSelecionar.resources
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Properties.Resources.resources
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.csproj.GenerateResource.Cache
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmRelExtratosDeContas.resources
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmRelFluxoDeCaixa.resources
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmRelExtratosDeContas.resources
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmRelFluxoDeCaixa.resources
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\bin\Debug\SysFinance.UI.exe.config
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.exe
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.pdb
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\bin\Debug\SysFinance.UI.exe
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\bin\Debug\SysFinance.UI.pdb
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\bin\Debug\SysFinance.BLL.dll
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\bin\Debug\SysFinance.DAL.dll
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\bin\Debug\SysFinance.DTO.dll
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\bin\Debug\SysFinance.BLL.pdb
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\bin\Debug\SysFinance.DAL.pdb
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\bin\Debug\SysFinance.DTO.pdb
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.csprojResolveAssemblyReference.cache
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.frmConsultar.resources
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.frmDigitar.resources
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Base.frmBaseRelatorio.resources
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Base.frmBaseSelecionar.resources
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.frmAjuda.resources
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmConfigurarAcesso.resources
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmContasConsultar.resources
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmContasDigitar.resources
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmContasSelecionar.resources
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmRelExtratosDeContas.resources
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmRelFluxoDeCaixa.resources
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmLancamentosConsultar.resources
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmLancamentosDigitar.resources
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmLancamentosSelecionar.resources
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.frmLogin.resources
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.frmMenuPrincipal.resources
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmSegmentosConsultar.resources
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmSegmentosDigitar.resources
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmSegmentosSelecionar.resources
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmUsuariosConsultar.resources
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmUsuariosDigitar.resources
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmUsuariosSelecionar.resources
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Properties.Resources.resources
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.csproj.GenerateResource.Cache
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.csprojResolveAssemblyReference.cache
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.frmConsultar.resources
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.frmDigitar.resources
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Base.frmBaseRelatorio.resources
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Base.frmBaseSelecionar.resources
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmConfigurarAcesso.resources
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmContasConsultar.resources
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmContasDigitar.resources
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmTrocarSenha.resources
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmRelExtratosDeContas.resources
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmRelFluxoDeCaixa.resources
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmLancamentosConsultar.resources
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmLancamentosDigitar.resources
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.frmLogin.resources
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.frmMenuPrincipal.resources
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmSegmentosConsultar.resources
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmSegmentosDigitar.resources
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmUsuariosConsultar.resources
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmUsuariosDigitar.resources
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Properties.Resources.resources
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.csproj.GenerateResource.Cache
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\bin\Debug\SysFinance.UI.exe.config
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\bin\Debug\SysFinance.UI.exe
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\bin\Debug\SysFinance.UI.pdb
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\bin\Debug\SysFinance.BLL.dll
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\bin\Debug\SysFinance.DAL.dll
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\bin\Debug\SysFinance.DTO.dll
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\bin\Debug\SysFinance.BLL.pdb
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\bin\Debug\SysFinance.DAL.pdb
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\bin\Debug\SysFinance.DTO.pdb
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.exe
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.pdb
+C:\Users\Ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\Phalanx.UI.Controls.Esperando.resources
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmTrocarSenha.resources
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmAjuda.resources
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmAjuda.resources
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\bin\Debug\SysFinance.UI.exe.config
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.exe
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.pdb
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\bin\Debug\SysFinance.UI.exe
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\bin\Debug\SysFinance.UI.pdb
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\bin\Debug\SysFinance.BLL.dll
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\bin\Debug\SysFinance.DAL.dll
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\bin\Debug\SysFinance.DTO.dll
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\bin\Debug\SysFinance.BLL.pdb
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\bin\Debug\SysFinance.DAL.pdb
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\bin\Debug\SysFinance.DTO.pdb
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\bin\Debug\itextsharp.xml
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.csprojResolveAssemblyReference.cache
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.frmConsultar.resources
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.frmDigitar.resources
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Base.frmBaseRelatorio.resources
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Base.frmBaseSelecionar.resources
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\obj\Debug\Phalanx.UI.Controls.Esperando.resources
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmAjuda.resources
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmConfigurarAcesso.resources
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmContasConsultar.resources
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmContasDigitar.resources
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmTrocarSenha.resources
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmRelExtratosDeContas.resources
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmRelFluxoDeCaixa.resources
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmLancamentosConsultar.resources
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmLancamentosDigitar.resources
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.frmLogin.resources
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.frmMenuPrincipal.resources
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmSegmentosConsultar.resources
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmSegmentosDigitar.resources
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmUsuariosConsultar.resources
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Formularios.frmUsuariosDigitar.resources
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Properties.Resources.resources
+C:\Users\ernando\Desktop\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.csproj.GenerateResource.Cache
+C:\Users\ernando\documents\visual studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Base.frmBaseFiltroId.resources
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.UI\obj\Debug\SysFinance.UI.Base.frmBaseFiltroId.resources

@@ -1,0 +1,23 @@
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.DTO\bin\Debug\SysFinance.DTO.dll
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.DTO\bin\Debug\SysFinance.DTO.pdb
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.DTO\obj\Debug\SysFinance.DTO.csprojResolveAssemblyReference.cache
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.DTO\obj\Debug\SysFinance.DTO.dll
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.DTO\obj\Debug\SysFinance.DTO.pdb
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.DTO\bin\Debug\SysFinance.DTO.dll
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.DTO\bin\Debug\SysFinance.DTO.pdb
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.DTO\obj\Debug\SysFinance.DTO.dll
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.DTO\obj\Debug\SysFinance.DTO.pdb
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.DTO\bin\Debug\SysFinance.DTO.dll
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.DTO\bin\Debug\SysFinance.DTO.pdb
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.DTO\obj\Debug\SysFinance.DTO.csprojResolveAssemblyReference.cache
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.DTO\obj\Debug\SysFinance.DTO.dll
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.DTO\obj\Debug\SysFinance.DTO.pdb
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.DTO\bin\Debug\SysFinance.DTO.dll
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.DTO\bin\Debug\SysFinance.DTO.pdb
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.DTO\obj\Debug\SysFinance.DTO.csprojResolveAssemblyReference.cache
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.DTO\obj\Debug\SysFinance.DTO.dll
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.DTO\obj\Debug\SysFinance.DTO.pdb
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.DTO\bin\Debug\SysFinance.DTO.dll
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.DTO\bin\Debug\SysFinance.DTO.pdb
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.DTO\obj\Debug\SysFinance.DTO.dll
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.DTO\obj\Debug\SysFinance.DTO.pdb

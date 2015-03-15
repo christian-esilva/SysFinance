@@ -1,0 +1,54 @@
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.BLL.dll
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.BLL.pdb
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.DAL.dll
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.DTO.dll
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.DAL.pdb
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.DTO.pdb
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.BLL\obj\Debug\SysFinance.BLL.csprojResolveAssemblyReference.cache
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.BLL\obj\Debug\SysFinance.BLL.dll
+C:\Users\christian.esilva\Downloads\Entrega PI - Fase 2\Entrega PI - Fase 2\SysFinance\SysFinance\SysFinance.BLL\obj\Debug\SysFinance.BLL.pdb
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.BLL.dll
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.BLL.pdb
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.DAL.dll
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.DTO.dll
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.DAL.pdb
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.DTO.pdb
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.BLL\obj\Debug\SysFinance.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.BLL\obj\Debug\SysFinance.BLL.dll
+C:\Users\Christian\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.BLL\obj\Debug\SysFinance.BLL.pdb
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.BLL.dll
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.BLL.pdb
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.DAL.dll
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.DTO.dll
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.DAL.pdb
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.DTO.pdb
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.BLL\obj\Debug\SysFinance.BLL.csprojResolveAssemblyReference.cache
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.BLL\obj\Debug\SysFinance.BLL.dll
+C:\Users\geoinformacao\Documents\Visual Studio 2013\Projects\SysFinance\SysFinance.BLL\obj\Debug\SysFinance.BLL.pdb
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.BLL.dll
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.BLL.pdb
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.DAL.dll
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.DTO.dll
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.DAL.pdb
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.DTO.pdb
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.BLL\obj\Debug\SysFinance.BLL.csprojResolveAssemblyReference.cache
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.BLL\obj\Debug\SysFinance.BLL.dll
+C:\Users\geoinformacao\Downloads\SysFinance\SysFinance\SysFinance.BLL\obj\Debug\SysFinance.BLL.pdb
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.BLL.dll
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.BLL.pdb
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.DAL.dll
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.DTO.dll
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.DAL.pdb
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.DTO.pdb
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.BLL\obj\Debug\SysFinance.BLL.csprojResolveAssemblyReference.cache
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.BLL\obj\Debug\SysFinance.BLL.dll
+C:\Users\ernando\Documents\Visual Studio 2012\Projects\SysFinance\SysFinance.BLL\obj\Debug\SysFinance.BLL.pdb
+C:\Users\ernando\Desktop\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.BLL.dll
+C:\Users\ernando\Desktop\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.BLL.pdb
+C:\Users\ernando\Desktop\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.DAL.dll
+C:\Users\ernando\Desktop\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.DTO.dll
+C:\Users\ernando\Desktop\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.DAL.pdb
+C:\Users\ernando\Desktop\SysFinance\SysFinance.BLL\bin\Debug\SysFinance.DTO.pdb
+C:\Users\ernando\Desktop\SysFinance\SysFinance.BLL\obj\Debug\SysFinance.BLL.csprojResolveAssemblyReference.cache
+C:\Users\ernando\Desktop\SysFinance\SysFinance.BLL\obj\Debug\SysFinance.BLL.dll
+C:\Users\ernando\Desktop\SysFinance\SysFinance.BLL\obj\Debug\SysFinance.BLL.pdb
